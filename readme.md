@@ -26,6 +26,9 @@ streamlit run dashboard.py
 streamlit run dashboard.py --server.runOnSave=true
 ```
 
+## Dashboard Link
+Akses dashboard di sini: [Business Insights Dashboard](https://zainals-e-commerce-public-dataset-analysis.streamlit.app/)
+
 ## Troubleshooting
 ### 1. Streamlit Command Not Found
 Jika muncul error:
@@ -57,3 +60,4 @@ Jika perubahan kode tidak langsung muncul, tekan **Ctrl + C** untuk menghentikan
 ```
 streamlit run dashboard.py
 ```
+
